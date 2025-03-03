@@ -7,3 +7,14 @@ div[class^="col"] {
 .row{
     border: 1px dashed red;
 }
+
+i {
+    font-size: 2rem;
+}
+h1{
+    font-family: "Kaushan Script", serif;
+    font-weight: 400;
+    font-style: normal;}
+
+  
+  
